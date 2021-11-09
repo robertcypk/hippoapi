@@ -1,0 +1,152 @@
+html,body{
+  background-color: white;
+}
+h1{
+  font-size: 20;
+}
+/*--responsive--aligndefault-width*/
+.formhippo{
+  background-color: white !important;
+  max-width: 100% !important;
+  width: 1000px;
+  height: 100%;
+}
+.formhippo input{
+  border-top: 0px;
+  border-top-color: #fff;
+  border-bottom: 1px;
+  border-style: solid;
+  border-bottom-color: #000;
+  border-left: 0px;
+  border-left-color: #fff;
+  border-right: 0px;
+  border-right-color: #fff;
+}
+.formhippo select{
+  border: 0px #fff solid;
+  width: 312px;
+}
+.formhippo_a{
+  width: 100%;
+  height: 100px;
+  clear: both;
+}
+.formhippo_b{
+  display: block;
+  width: 100%;
+  height: 100px;
+  clear: both;
+}
+.formhippo_c{
+  display: block;
+  width: 100%;
+  height: 100px;
+  clear: both;
+}
+.formhippo_d{
+  display: block;
+  width: 100%;
+  height: 100px;
+  clear: both;
+}
+.formhippo_e{
+  display: block;
+  width: 100%;
+  height: 100px;
+  clear: both;
+}
+.formhippo_f{
+  display: block;
+  width: 100%;
+  height: 127px;
+  clear: both;
+  text-align: left;
+}
+.formhippo_g{
+  display: block;
+  width: 100%;
+  height: 127px;
+  clear: both;
+  text-align: center !important;
+}
+.formhippo_b_sub{
+  width: 100%;
+  height: 100px;
+}
+.input_hippo{
+  padding: 5px 5px 5px 5px;
+  margin: 5px 5px 5px 5px;
+  height: 100px;
+}
+.submithippo{
+  background-color: #42b883 !important;
+  border-radius: 50px !important;
+}
+.inputcustom1{
+  width: 645px;
+}
+.inputcustom2{
+  float: right;
+}
+.inputcustom3{
+  width: 312px;
+}
+.inputcustom4{
+  width: 979px;
+}
+.inputcustom5{
+  width: 478px;
+}
+.col1{
+  float:left;
+  width: 323px;
+
+}
+.col1 input,label,select{
+  display: block;
+}
+.col2{
+  float: left;
+  display: block;
+}
+.col3{
+  float: left;
+}
+.col4{
+  float: left;
+  width: 323px;
+}
+.col5{
+  float: left;
+  width: 489px;
+}
+.col6{
+  float: left;
+  width: 323px;
+  padding: 0px 0px 0px 0px;
+}
+.scol1{
+  float: left;
+  display: block;
+  font-size: 12px;
+  height: 100px;
+  width: 281px;
+}
+.scol2{
+  float: left;
+  display: block;
+  font-size: 12px;
+  height: 100px;
+  width: 10%;
+}
+.scol2 > input[type="radio"]{ border: 1px solid #000; }
+.h1color1{ color: blue; font-size:20px; }
+.h1color2{ color: red; font-size:20px; }
+.h1color3{ color: #bf94ff; font-size:20px; }
+.border1{ border: 1px solid #000; padding: 4px; }
+/*
+.formhippo input,label{
+  display: block;
+  float: left;
+}
+*/
